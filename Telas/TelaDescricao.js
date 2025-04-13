@@ -79,7 +79,7 @@ export default function TelaDescricao({ route }) {
     </ScrollView>
   );
 }
-
+//Estilização da página de detalhes
 const styles = StyleSheet.create({
     container: {
       alignItems: 'center',
