@@ -26,8 +26,7 @@ export default function App() {
 
           component={TelaInicial}
 
-          options={{ title: 'Lista de pokémons' }} // corrigido acento em "pokémons"
-
+          options={{ title: 'Lista de pokémons' }} 
         />
 
         {/* Essa é a tela de descricao/detalhes */}
